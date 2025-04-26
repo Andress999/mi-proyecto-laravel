@@ -1,7 +1,10 @@
 /vendor/
-node_modules/
-npm-debug.log
-yarn-error.log
+.env
+/node_modules/
+/storage/framework/cache/
+/storage/framework/views/
+/storage/logs/
+/public/storage
 
 # Laravel 4 specific
 bootstrap/compiled.php
